@@ -24,9 +24,9 @@ const time = process.uptime(),
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【HH:mm:ss】");
 var link =                                     
-["https://i.imgur.com/sq2qVma.jpeg"];
+["https://i.imgur.com/Uvgv5zY.jpeg"];
 var callback = () => api.sendMessage({body:` Meheraz islam (𝕄𝕖𝕙𝕖𝕣𝕒𝕫)🇧🇩 𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 🇧🇩 
-(⌐▀͡ ̯ʖ▀)︻̷┻̿═━一-
+(🥺🥺)
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
 
@@ -38,9 +38,9 @@ var callback = () => api.sendMessage({body:` Meheraz islam (𝕄𝕖𝕙𝕖𝕣
 
 ✧══════•👑•══════✧
 
-🌸Bot Prefix🌸☞︎︎︎${global.config.PREFIX}☜︎︎︎✰
+🤖Bot Prefix🤖☞︎︎︎${global.config.PREFIX}☜︎︎︎✰
 
-♥️Bot Owner♥️ ☞︎︎︎𝐌𝐞𝐡𝐞𝐫𝐚𝐳 𝐈𝐬𝐥𝐚𝐦☜︎︎︎✰ 
+👑Bot Owner👑 ☞︎︎︎𝐌𝐞𝐡𝐞𝐫𝐚𝐳 𝐈𝐬𝐥𝐚𝐦☜︎︎︎✰ 
 
 🥳UPTIME🥳
 
