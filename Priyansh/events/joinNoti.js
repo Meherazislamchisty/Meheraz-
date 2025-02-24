@@ -67,7 +67,7 @@ A̸N̸D̸ F̸O̸R̸ A̸N̸Y̸ R̸E̸P̸O̸R̸T̸ O̸R̸ C̸O̸N̸T̸A̸C̸T̸ B�
 ✮👑✮
 
 ┏━🤖━━👑━━🤖━┓👑𝐌𝐞𝐡𝐞𝐫𝐚𝐳 𝐈𝐬𝐥𝐚𝐦👑  ┗━🤖━━👑━━🤖━┛
-`, attachment: fs.createReadStream(__dirname + "/cache/botjoin.mp4")} ,threadID));
+`, attachment: fs.createReadStream(__dirname + "https://i.imgur.com/ZSWqFol.jpeg")} ,threadID));
     }
     else {
         try {
